@@ -1,0 +1,564 @@
+1
+00:00:00,000 --> 00:00:17,280
+Recall that the circulating capital of a society is composed of four parts, one provisions,
+
+2
+00:00:17,280 --> 00:00:27,719
+two materials, three finished work, and four money.
+
+3
+00:00:27,719 --> 00:00:41,239
+The first three: provisions, materials, and finished work, constitute consumable goods.
+
+4
+00:00:41,239 --> 00:00:52,200
+And whatever portion of consumable goods is not employed in maintaining the fixed capital
+
+5
+00:00:52,200 --> 00:01:12,320
+of a society, makes part of the neat revenue of the society: which is the stock of that
+
+6
+00:01:12,319 --> 00:01:27,839
+society which is reserved for immediate consumption. That is the viewpoint as taken by the point of
+
+7
+00:01:27,840 --> 00:01:43,719
+the view of society as a whole within a nation. Now I would like to talk about the circulating
+
+8
+00:01:43,719 --> 00:02:03,640
+capital within any given enterprise. I will cite two examples: one involving hammers, and the second
+
+9
+00:02:03,640 --> 00:02:16,920
+example will involve timber being purchased by a house builder. In the former case, the hammers are
+
+10
+00:02:16,920 --> 00:02:29,000
+purchased by a type of enterprise which hammers small amounts of gold into gold leaf sheets of gold.
+
+11
+00:02:29,000 --> 00:02:42,639
+Here the hammers form part of the provisions of that particular enterprise which hammers these
+
+12
+00:02:42,639 --> 00:02:58,199
+items of gold into thin gold leaf. Within the second example, the timber purchased by the house
+
+13
+00:02:58,199 --> 00:03:12,039
+builder from the timber merchant, constitutes part of the materials which he requires to build the
+
+14
+00:03:12,039 --> 00:03:27,840
+finished product. So, in the former case, the item purchased becomes part of the provisions; and in
+
+15
+00:03:27,840 --> 00:03:38,799
+the latter case, the item purchased becomes part of the materials. Recall that circulating capital
+
+16
+00:03:38,800 --> 00:03:50,840
+comprises provisions, materials, finished goods, and money. Recall also that when calculating the
+
+17
+00:03:50,840 --> 00:04:05,280
+neat revenue we must only consider provisions, materials and finished goods, not money. We previously
+
+18
+00:04:05,280 --> 00:04:16,279
+defined the neat revenue to be the stock reserved for immediate consumption. But I would like to query
+
+19
+00:04:16,279 --> 00:04:29,360
+at what point the hammer becomes consumed. Is it at the point where it leaves the stock of finished
+
+20
+00:04:29,960 --> 00:04:43,920
+products at the hammer manufacture's location? Note that the enterprise which hammers gold leaf
+
+21
+00:04:43,920 --> 00:04:59,439
+does not consume, as part of its immediate consumption, the hammers, because these form part of the required
+
+22
+00:04:59,439 --> 00:05:15,000
+provisions which are necessary in order to perform this enterprise. The merchant does not consume his
+
+23
+00:05:15,000 --> 00:05:28,600
+stock because that would be bad accountancy. His circulating capital (quote) "...is totally excluded
+
+24
+00:05:28,600 --> 00:05:41,960
+from making any part of his neat revenue, which must consist altogether in his profits." (end quote).
+
+25
+00:05:41,959 --> 00:06:07,560
+This means that out of his profits -- from his profits -- he acquires the component part of money which is to
+
+26
+00:06:07,560 --> 00:06:24,680
+be used for his immediate consumption. The hammers which ultimately formed part of the provisions of
+
+27
+00:06:25,439 --> 00:06:41,160
+the enterprise which hammered gold into gold leaf, did actually form part of the neat revenue of the society
+
+28
+00:06:41,160 --> 00:06:57,720
+to which the enterprise which manufactures hammers belongs. Although these hammers, when regarded as
+
+29
+00:06:58,360 --> 00:07:15,000
+part of the neat revenue of a society, become not consumed actually by the stock of any individual or
+
+30
+00:07:15,000 --> 00:07:26,520
+enterprise which is reserved for immediate consumption, they do become consumed in a sense, and so in this
+
+31
+00:07:26,519 --> 00:07:38,279
+regard, the neat revenue does comprehend the stock reserved for immediate consumption; but it also
+
+32
+00:07:38,439 --> 00:07:52,439
+comprehends provisions and materials as part of some further enterprise. This is the case when
+
+33
+00:07:52,519 --> 00:08:08,839
+regarded as the neat revenue of a society: but not as the neat revenue of an individual or an enterprise.
+
+34
+00:08:09,560 --> 00:08:23,079
+To cite the example of the house builder garnering timber from the timber merchant,
+
+35
+00:08:26,439 --> 00:08:35,879
+the house builder does not put the timber into his stock reserved for immediate consumption
+
+36
+00:08:36,120 --> 00:08:49,639
+because he does not consume this himself, and that would be incorrect accountancy anyway.
+
+37
+00:08:53,480 --> 00:09:01,000
+This timber does form part of the materials required to construct a house,
+
+38
+00:09:01,720 --> 00:09:09,720
+so we may say that the timber
+
+39
+00:09:12,759 --> 00:09:25,720
+forms part of the neat revenue of a society, but not that of the enterprise as this house builder.
+
+40
+00:09:26,680 --> 00:09:40,920
+Does a house become consumed when it is bought? Well in a way, yes; and in a way, no.
+
+41
+00:09:42,920 --> 00:09:52,440
+The house is an asset which if left uncared for will fall into dilapidation over time.
+
+42
+00:09:56,680 --> 00:10:03,240
+So, a house is an asset which degrades over time;
+
+43
+00:10:07,080 --> 00:10:13,320
+and so, in this sense, a house is a consumable commodity.
+
+44
+00:10:13,320 --> 00:10:27,800
+A punnet of strawberries is also a consumable commodity, which degrades pretty quickly:
+
+45
+00:10:29,480 --> 00:10:31,560
+a lot more quickly than a house does so.
+
+46
+00:10:31,639 --> 00:10:44,359
+So, a house is a much better asset than a lot of strawberries
+
+47
+00:10:45,799 --> 00:10:52,519
+because it retains its value, its worth -- its cost --
+
+48
+00:10:55,159 --> 00:10:58,199
+for much longer than the strawberries will.
+
+49
+00:11:02,119 --> 00:11:07,479
+So, a house can also be treated as an asset.
+
+50
+00:11:11,159 --> 00:11:14,599
+If I am in the strawberry merchant business,
+
+51
+00:11:17,479 --> 00:11:24,199
+strawberries, which I purchase as my materials for trade, are also an asset;
+
+52
+00:11:25,160 --> 00:11:30,840
+but these strawberries will perish
+
+53
+00:11:32,440 --> 00:11:41,560
+quite quickly. Unless I sell them on soon, I won't be able to recover my investment.
+
+54
+00:11:42,439 --> 00:11:56,039
+Though the timber in the timber-merchant's enterprise must by no means be placed within
+
+55
+00:11:57,399 --> 00:12:02,919
+the stock of the timber-merchant's which is reserved for his immediate consumption,
+
+56
+00:12:03,879 --> 00:12:07,000
+this timber
+
+57
+00:12:10,919 --> 00:12:16,759
+may be consumed by home buyers
+
+58
+00:12:17,080 --> 00:12:28,759
+whom replace the value of the timber to the timber merchant
+
+59
+00:12:29,559 --> 00:12:39,000
+together with profits upon this timber; and these home-buyers obtain
+
+60
+00:12:39,399 --> 00:12:51,080
+this acquisition from a revenue derived from other funds, such as their wages,
+
+61
+00:12:52,440 --> 00:12:55,240
+or the profits of their own enterprises:
+
+62
+00:12:59,159 --> 00:13:06,519
+and this replacing to the timber of the timber merchant
+
+63
+00:13:06,919 --> 00:13:15,159
+does not occasion any diminution either in the capital of the timber merchant,
+
+64
+00:13:18,519 --> 00:13:22,840
+nor the capital of the home buyer.
+
+65
+00:13:27,480 --> 00:13:33,399
+The reason why the capital of the home buyer is not decreased,
+
+66
+00:13:34,039 --> 00:13:44,199
+is because the house is being paid for out of profits of the home-buyer's enterprise,
+
+67
+00:13:45,799 --> 00:13:48,759
+or the home buyers wages.
+
+68
+00:13:48,759 --> 00:14:00,039
+Money itself is an asset as a form of capital,
+
+69
+00:14:01,240 --> 00:14:10,360
+but it does not constitute capital revenue because capital revenue must be material tangible stuff:
+
+70
+00:14:10,360 --> 00:14:17,559
+such as the materials to work upon, or the finished products, or the fuel which is provided to the factory.
+
+71
+00:14:19,080 --> 00:14:28,919
+This is another revelation -- or should we say "heresy"?
+
+72
+00:14:37,879 --> 00:14:45,159
+I shall say that fixed capital, such as a factory owner's machinery,
+
+73
+00:14:45,879 --> 00:14:56,120
+is part of the set of provisions which this factory owner requires,
+
+74
+00:14:59,879 --> 00:15:07,159
+and in that sense these assets are part of the circulating capital.
+
+75
+00:15:08,039 --> 00:15:21,719
+Recall that circulating capital consists of: provisions, materials, finished goods, and money.
+
+76
+00:15:26,039 --> 00:15:32,839
+The reason why I include fixed capital, such as machinery, within
+
+77
+00:15:33,639 --> 00:15:40,920
+the provisions of the enterprise which the factory owner owns, is because
+
+78
+00:15:43,240 --> 00:15:52,440
+he might need to be provided with machinery which he pays for
+
+79
+00:15:55,960 --> 00:15:59,560
+out of his profits.
+
+80
+00:16:03,720 --> 00:16:11,160
+Recall that his profits may be spent upon maintaining his fixed capital,
+
+81
+00:16:12,280 --> 00:16:17,560
+such as maintaining his existing machinery or factory buildings,
+
+82
+00:16:20,600 --> 00:16:29,080
+or, in the alternative, his profits may be funnelled into his neat revenue:
+
+83
+00:16:29,800 --> 00:16:33,480
+which is his stock reserved for immediate consumption,
+
+84
+00:16:36,280 --> 00:16:38,520
+which is not part of the
+
+85
+00:16:41,960 --> 00:16:47,639
+provisions, materials, and finished products, of his enterprise.
+
+86
+00:16:48,039 --> 00:16:56,279
+When I say "his stock reserved for immediate consumption",
+
+87
+00:16:57,319 --> 00:17:04,279
+I mean: that which he purchases by using his neat revenue
+
+88
+00:17:07,240 --> 00:17:16,200
+in order to use these items himself, or give them to his friends.
+
+89
+00:17:17,960 --> 00:17:31,080
+Now, after he has built his factory and furnished it with productive machinery,
+
+90
+00:17:33,160 --> 00:17:42,840
+neither his factory nor his machinery constitutes part of the gross revenue
+
+91
+00:17:43,399 --> 00:17:47,559
+of his enterprise.
+
+92
+00:17:52,279 --> 00:18:01,399
+This is because his gross revenue consists of that part of his provisions, materials,
+
+93
+00:18:02,119 --> 00:18:09,480
+and finished products, which are within flux: which are being exchanged.
+
+94
+00:18:09,799 --> 00:18:15,799
+He is keeping his factory. He is keeping his machinery.
+
+95
+00:18:16,920 --> 00:18:22,759
+He is not selling it on like a merchant of machinery would sell the machinery.
+
+96
+00:18:23,559 --> 00:18:30,039
+He is not in the business of constructing factories to sell them to other entrepreneurs.
+
+97
+00:18:30,440 --> 00:18:39,559
+He has acquired the assets as his factory and his machinery for the purpose of their use.
+
+98
+00:18:42,839 --> 00:18:47,240
+So it is what his machinery does,
+
+99
+00:18:49,159 --> 00:18:56,200
+and the actions which his labourers perform, which changes the materials
+
+100
+00:18:56,200 --> 00:19:04,120
+into the finished product, and of course he has to pay for the provisions as fuel and water
+
+101
+00:19:04,120 --> 00:19:06,519
+for his factory to function.
+
+102
+00:19:11,720 --> 00:19:19,799
+He also has to pay for the materials which his factory works upon, in order to create the finished
+
+103
+00:19:19,799 --> 00:19:32,440
+product. Fuel is provisions: and provisions in this sense -- the circulatory sense -- is part of his
+
+104
+00:19:34,119 --> 00:19:39,559
+circulating capital. His provisions in the fixed sense,
+
+105
+00:19:42,279 --> 00:19:46,200
+although part of his provisions, aren't circulating;
+
+106
+00:19:46,680 --> 00:19:55,559
+so these provisions such as machinery, and factories -- the buildings of --
+
+107
+00:20:00,759 --> 00:20:02,200
+are only paid for once,
+
+108
+00:20:04,920 --> 00:20:10,279
+and then exist as capital -- fixed capital -- assets.
+
+109
+00:20:10,599 --> 00:20:26,440
+But, the manufacturer of the machinery did sell his machinery when the factory owner bought it;
+
+110
+00:20:30,200 --> 00:20:39,639
+and so, in a sense, his machinery did become consumed when it became part of the provisions --
+
+111
+00:20:40,279 --> 00:20:46,039
+part of the fixed capital provisions -- of that factory owner.
+
+112
+00:20:51,079 --> 00:20:51,319
+So,
+
+113
+00:20:54,680 --> 00:20:57,960
+when the factory owner acquired these machinery,
+
+114
+00:20:58,840 --> 00:21:09,960
+this consumption did form part of the neat revenue of a society;
+
+115
+00:21:13,160 --> 00:21:17,160
+it didn't form part of the neat revenue of the factory owner.
+
+116
+00:21:17,160 --> 00:21:31,880
+The neat revenue of the factory owner was that part of his profits
+
+117
+00:21:33,000 --> 00:21:37,000
+which he spent upon stock reserved for his immediate consumption.
+
+118
+00:21:37,240 --> 00:21:44,839
+Here, the factory --
+
+119
+00:21:46,839 --> 00:21:53,640
+like a house -- is an asset, which is owned by the factory owner.
+
+120
+00:21:53,880 --> 00:22:07,160
+The factory, indeed, could be sold to another entrepreneur,
+
+121
+00:22:08,840 --> 00:22:19,880
+and in this sense, the factory itself constitutes part of the neat revenue of a society.
+
+122
+00:22:24,440 --> 00:22:32,680
+My definition of neat revenue of a society
+
+123
+00:22:34,759 --> 00:22:42,040
+is, "That part of revenue -- where revenue is tangible material stuff --
+
+124
+00:22:43,000 --> 00:22:56,519
+that people within that society have at their disposal to acquire as stock reserved for their
+
+125
+00:22:56,519 --> 00:23:02,920
+immediate consumption." Basically, how wealthy they are.
+
+126
+00:23:03,880 --> 00:23:11,400
+My definition of gross revenue
+
+127
+00:23:15,880 --> 00:23:16,840
+encompasses
+
+128
+00:23:20,920 --> 00:23:23,000
+all the circulating capital,
+
+129
+00:23:23,720 --> 00:23:31,960
+all the investment in fixed capital,
+
+130
+00:23:34,839 --> 00:23:40,839
+and all the neat revenue of all people within that society.
+
+131
+00:23:41,000 --> 00:23:49,959
+I concur with Smith when he says,
+
+132
+00:23:52,119 --> 00:24:03,319
+"...so money, by means of which the whole revenue of the society is regularly distributed among
+
+133
+00:24:03,319 --> 00:24:10,279
+all its different members, makes itself no part of that revenue."
+
+134
+00:24:16,759 --> 00:24:25,319
+This was the heresy I referred to earlier.
+
+135
+00:24:26,119 --> 00:24:37,960
+Smith said, "Money, therefore, the great wheel of circulation,
+
+136
+00:24:40,200 --> 00:24:42,439
+the great instrument of commerce,
+
+137
+00:24:45,720 --> 00:24:51,639
+like all other instruments of trade, though it makes a part,
+
+138
+00:24:51,960 --> 00:25:06,040
+and a very valuable part, of the capital, makes no part of the revenue of the society to which it belongs;
+
+139
+00:25:09,080 --> 00:25:18,360
+and though the metal pieces of which it is composed, in the course of their annual circulation,
+
+140
+00:25:18,679 --> 00:25:26,039
+distribute to every man the revenue which properly belongs to him,
+
+141
+00:25:27,959 --> 00:25:32,439
+they make themselves no part of that revenue."
+

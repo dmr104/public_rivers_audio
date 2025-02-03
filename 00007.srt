@@ -1,0 +1,436 @@
+1
+00:00:00,000 --> 00:00:08,679
+Now I shall talk about the word as "cost".
+
+2
+00:00:08,679 --> 00:00:20,480
+We put apples on the left side of the see-saw, and money on the right-hand side.
+
+3
+00:00:20,480 --> 00:00:27,679
+Now, the cost of 10 apples was £1.
+
+4
+00:00:27,679 --> 00:00:31,800
+The cost of apples doubles.
+
+5
+00:00:31,800 --> 00:00:41,640
+Now, the cost of 10 apples is £2.
+
+6
+00:00:41,640 --> 00:00:49,799
+Please draw a table, the same as the one you drew before.
+
+7
+00:00:49,799 --> 00:00:54,879
+From left to right, the columns are apples and money.
+
+8
+00:00:54,880 --> 00:01:02,359
+From top to bottom, the rows are apples and money, in that order.
+
+9
+00:01:02,359 --> 00:01:08,359
+Now, we fill in the north-east cell.
+
+10
+00:01:08,359 --> 00:01:17,560
+The ratio of one-to-one has been transformed into a ratio of one-to-two, apples to money.
+
+11
+00:01:24,879 --> 00:01:29,959
+So far, so good.
+
+12
+00:01:29,959 --> 00:01:39,879
+We now investigate whether the cell in the south-west position is identical,
+
+13
+00:01:39,879 --> 00:01:45,799
+i.e. does it have a ratio of one-to-two after the transformation,
+
+14
+00:01:45,799 --> 00:02:00,519
+when we invert the position of apples and money on the see-saw?
+
+15
+00:02:00,519 --> 00:02:15,319
+We shall now put money on the left-hand side of the see-saw, and apples on the right.
+
+16
+00:02:15,319 --> 00:02:25,959
+We investigate, using psychological words, linguistic possibilities.
+
+17
+00:02:25,959 --> 00:02:33,159
+The cost of £1 is 10 apples.
+
+18
+00:02:33,159 --> 00:02:36,639
+This is previous to any change.
+
+19
+00:02:36,639 --> 00:02:43,240
+Now, after the change, the cost of money doubles.
+
+20
+00:02:43,240 --> 00:02:52,280
+How many apples can £1 now purchase?
+
+21
+00:02:52,280 --> 00:03:01,360
+I must point out that cost is not the cost of borrowing money from any central bank, or subsidiary bank.
+
+22
+00:03:01,360 --> 00:03:09,320
+But we're treating the cost of £1 as a commodity in comparison to the cost of say $1 as a commodity.
+
+23
+00:03:09,319 --> 00:03:18,039
+Treat money sterling like the cost of any commodity.
+
+24
+00:03:18,039 --> 00:03:32,680
+An economist might say something like: the interest rate increases, reducing the cost of money;
+
+25
+00:03:32,680 --> 00:03:39,400
+and the price of it should go down depending upon a demand curve.
+
+26
+00:03:39,400 --> 00:03:47,240
+But we're not talking about anything of the sort.
+
+27
+00:03:47,240 --> 00:04:00,120
+We're saying that where money is, say, a banana, the cost of one banana is 10 apples, previously.
+
+28
+00:04:00,120 --> 00:04:08,840
+And if the cost of a banana doubles, how many apples can one banana now purchase?
+
+29
+00:04:08,840 --> 00:04:17,240
+I'll give you time to pause to think about this.
+
+30
+00:04:17,240 --> 00:04:29,480
+Well, the 20th century, the 21st century viewpoint, and the explanation of it, is that, previously, £1
+
+31
+00:04:29,480 --> 00:04:35,160
+would buy 10 apples; so, the cost of each apple was 10 pence.
+
+32
+00:04:35,160 --> 00:04:43,560
+And if the cost of money doubles, subsequently the cost of any apple becomes 20 pence.
+
+33
+00:04:43,560 --> 00:04:53,720
+So, we can only buy five of them after this transformation in cost.
+
+34
+00:04:53,720 --> 00:04:59,320
+So, what do we have in our south-west cell in our cost table?
+
+35
+00:04:59,320 --> 00:05:09,400
+Well, if £1 can buy 10 apples previously, and only five after,
+
+36
+00:05:09,400 --> 00:05:14,440
+that's the same as saying that £2 will buy 10 apples after.
+
+37
+00:05:14,439 --> 00:05:31,720
+So, our ratio, from one-to-one money to apples, has become a ratio of two-to-one money to apples.
+
+38
+00:05:31,720 --> 00:05:37,159
+But this is inconsistent with our north-east cell.
+
+39
+00:05:37,159 --> 00:05:41,480
+Again, we have an inconsistency in the 20th century
+
+40
+00:05:41,480 --> 00:05:48,040
+linguistic understanding: which is purely psychological, which exists entirely in our heads,
+
+41
+00:05:48,040 --> 00:05:53,000
+and nowhere in external reality.
+
+42
+00:05:53,000 --> 00:05:59,240
+So, we can already conclude that the 20th century viewpoint about the word "cost" is wrong.
+
+43
+00:05:59,240 --> 00:06:03,160
+It is inconsistent: therefore it can't be true.
+
+44
+00:06:03,160 --> 00:06:10,280
+The ratio is inverted depending on which position we put apples, and which position we put
+
+45
+00:06:10,279 --> 00:06:15,239
+money, on which side of the see-saw. It is asymmetric.
+
+46
+00:06:15,239 --> 00:06:23,399
+We don't have a symmetrical ratio within the given transformation.
+
+47
+00:06:23,399 --> 00:06:27,639
+Now, the mystery is to examine which cell is correct:
+
+48
+00:06:27,639 --> 00:06:31,799
+is it the north-east cell, or is it the south-west cell?
+
+49
+00:06:31,799 --> 00:06:36,119
+To do this, we will need to examine the 18th century viewpoint,
+
+50
+00:06:36,120 --> 00:06:40,360
+and hopefully it will be consistent. If it is consistent, we know it to be true;
+
+51
+00:06:42,199 --> 00:06:48,360
+and this will reveal which one of our cells is the external reality.
+
+52
+00:06:50,840 --> 00:06:54,519
+Please note that in the table for the 18th century price,
+
+53
+00:06:57,079 --> 00:07:04,920
+both the south-west cell, and the north-east cell, have become transformed to
+
+54
+00:07:04,920 --> 00:07:08,600
+the same ratio, which is one-to-two:
+
+55
+00:07:11,720 --> 00:07:20,840
+that is one-to-two of the left-hand side to the right-hand side.
+
+56
+00:07:24,360 --> 00:07:31,240
+It didn't matter whether we place apples, or money, on the left-hand side: we got the same result.
+
+57
+00:07:31,240 --> 00:07:38,120
+The semantic meaning of the word "money" didn't change that in the 18th century.
+
+58
+00:07:38,120 --> 00:07:47,160
+We note that it did in the 20th century, previously.
+
+59
+00:07:47,240 --> 00:07:51,880
+I posit that
+
+60
+00:07:54,600 --> 00:08:03,640
+the correct cell for the cost in the 20th century is the north-east cell.
+
+61
+00:08:06,280 --> 00:08:10,840
+It's merely a speculation at this stage; and the reason I say that is because
+
+62
+00:08:11,799 --> 00:08:18,599
+we have a seemingly non-absurd transformed ratio
+
+63
+00:08:18,599 --> 00:08:23,719
+of one-to-two, apples to money, left-hand side to the right-hand side.
+
+64
+00:08:32,439 --> 00:08:36,039
+I believe that words, and concepts, should have clearly definable
+
+65
+00:08:36,839 --> 00:08:41,559
+meanings, as, indeed, should prepositions within sentences.
+
+66
+00:08:42,199 --> 00:08:47,240
+I note that the prepositions within the English language have become very chaotic,
+
+67
+00:08:49,799 --> 00:08:54,519
+and this transitional change within linguistics has occurred beginning of
+
+68
+00:08:54,519 --> 00:08:58,439
+Victorian times, right through the 20th century, up until the present day.
+
+69
+00:08:59,320 --> 00:09:07,800
+To examine the concept of money further,
+
+70
+00:09:09,560 --> 00:09:14,920
+let us consider what money could have been thought of during most of the Iron Age,
+
+71
+00:09:14,920 --> 00:09:21,480
+which was maybe a pound of iron ore, smelted from some mine.
+
+72
+00:09:21,639 --> 00:09:29,639
+So, I'd like to examine the north-east cell first.
+
+73
+00:09:31,000 --> 00:09:34,840
+The transformed ratio of the cost of apples, to the cost of money:
+
+74
+00:09:36,120 --> 00:09:42,600
+which I've speculated, as a hypothesis, that it should be
+
+75
+00:09:44,759 --> 00:09:46,440
+one-to-two, apples to money,
+
+76
+00:09:46,920 --> 00:09:54,360
+exchangeable amount of; which is after the transformation.
+
+77
+00:09:58,120 --> 00:10:05,400
+This makes linguistic sense as a concept, both in the 20th century, and indeed in the 18th century,
+
+78
+00:10:06,920 --> 00:10:11,960
+because the cost of something is the amount on the right-hand side of the see-saw,
+
+79
+00:10:12,920 --> 00:10:16,600
+when we put the something on the left-hand side.
+
+80
+00:10:19,320 --> 00:10:32,680
+That is, if 10 apples on the left-hand side would cost one pound of iron ore on the right-hand side;
+
+81
+00:10:32,759 --> 00:10:45,000
+then, if the cost of apples doubles, then we now require two pounds of iron ore to exchange
+
+82
+00:10:46,199 --> 00:10:52,199
+by 10 apples. To put it another way,
+
+83
+00:10:54,679 --> 00:10:59,079
+10 apples to exchange by two pounds of iron ore.
+
+84
+00:11:03,639 --> 00:11:09,559
+Recall that we are treating iron as money: pounds of iron as money.
+
+85
+00:11:11,399 --> 00:11:20,359
+Now invert these positions: put money, which is iron, on the left-hand side of the see-saw,
+
+86
+00:11:21,000 --> 00:11:26,199
+and put apples on the right-hand side of the see-saw.
+
+87
+00:11:27,160 --> 00:11:39,800
+So, we are saying that one pound of iron exchanges by 10 apples; and subsequent to a transformation,
+
+88
+00:11:39,800 --> 00:11:45,000
+the cost of iron doubles.
+
+89
+00:11:45,879 --> 00:11:57,000
+So, we can infer linguistically that whatever is on the right-hand side of the see-saw, which is apples,
+
+90
+00:11:57,879 --> 00:12:01,639
+is now going to be required in double the amount to exchange
+
+91
+00:12:03,399 --> 00:12:08,679
+for what is on the left-hand side of the see-saw: which is one pound of iron.
+
+92
+00:12:08,759 --> 00:12:16,519
+So when the pound of iron, cost of, doubles, we now exchange by 20 apples.
+
+93
+00:12:17,799 --> 00:12:22,279
+This is the 18th century viewpoint, and it is logically consistent.
+
+94
+00:12:22,279 --> 00:12:25,879
+It is semantically consistent, and it is syntactically consistent.
+
+95
+00:12:29,159 --> 00:12:35,319
+Money doesn't do anything special semantically to the syntax of the see-saw.
+
+96
+00:12:35,560 --> 00:12:44,920
+It is symmetrical. So, the 18th century is correct; and my erstwhile hypothesis, which was that
+
+97
+00:12:47,400 --> 00:12:54,280
+what is on the right-hand side of the see-saw doubles in amount, by the word "cost", when the
+
+98
+00:12:54,280 --> 00:13:00,360
+cost doubles, of the substance on the left-hand side, seems sound.
+
+99
+00:13:06,280 --> 00:13:10,040
+Recall I previously mentioned that the word "price"
+
+100
+00:13:11,400 --> 00:13:13,400
+doubles the amount on the right-hand side.
+
+101
+00:13:14,680 --> 00:13:19,480
+Now, we can infer that the word "cost" doubles the amount that's on the right-hand side.
+
+102
+00:13:20,280 --> 00:13:22,120
+We're forming a pretty picture, so far.
+
+103
+00:13:25,720 --> 00:13:31,640
+But what is concerning is that the word "cost" in the 20th century is inconsistent.
+
+104
+00:13:32,519 --> 00:13:39,319
+So, when we use the words "cost of money", or, indeed, the more modern syntax,
+
+105
+00:13:39,319 --> 00:13:41,639
+which is the words as "cost to money",
+
+106
+00:13:44,199 --> 00:13:50,360
+we are not hitting reality in the correct place:
+
+107
+00:13:51,319 --> 00:13:59,319
+we're deluding ourselves, because when money is treated as a commodity, we fail.
+
+108
+00:14:02,600 --> 00:14:17,319
+Money is no different to any other commodity, as an external reality, I say, anyway.
+
+109
+00:14:19,319 --> 00:14:23,319
+Here ends my discussion of the word as "cost".
+

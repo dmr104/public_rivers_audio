@@ -1,0 +1,212 @@
+1
+00:00:00,000 --> 00:00:11,240
+In the following quotation from Adam Smith's Wealth of Nations, when the author uses the
+
+2
+00:00:11,240 --> 00:00:19,600
+words as "nominal price", he has previously defined this to be the price in money which
+
+3
+00:00:19,600 --> 00:00:38,159
+is paid. The quotation is taken from book 1, chapter 11, part 3, which is
+
+4
+00:00:38,159 --> 00:00:44,320
+titled: "Digression concerning the variations in the value of silver
+
+5
+00:00:44,320 --> 00:00:51,600
+during the course of the four last centuries." Recall that this book was
+
+6
+00:00:51,600 --> 00:01:04,319
+published in the 1770s; so, the four last centuries are from 1300 onwards. I
+
+7
+00:01:04,319 --> 00:01:12,439
+quote: "But the nominal sum which constitutes the market price of every
+
+8
+00:01:12,439 --> 00:01:21,879
+commodity, is necessarily regulated, not so much by the quantity of silver which
+
+9
+00:01:21,879 --> 00:01:28,879
+according to the standard ought to be contained in it, as by that which it is
+
+10
+00:01:28,879 --> 00:01:36,680
+found by experience actually is contained in it. This nominal sum
+
+11
+00:01:36,680 --> 00:01:45,320
+therefore is necessarily higher when the coin is much debased by clipping and
+
+12
+00:01:45,320 --> 00:02:02,040
+wearing, than when near to its standard value." End quote. Smith here is inferring
+
+13
+00:02:02,040 --> 00:02:10,640
+that when the coin contains less silver than freshly minted silver coin, its
+
+14
+00:02:10,640 --> 00:02:22,719
+worth, and hence Smith's understanding of its cost, is less.
+
+15
+00:02:25,360 --> 00:02:31,759
+Hence money has now decreased in price.
+
+16
+00:02:32,039 --> 00:02:39,439
+Note that in our previous examples, where we put the commodity under question on
+
+17
+00:02:39,439 --> 00:02:45,719
+the left side of the see-saw, and then doubled its price, or doubled its cost,
+
+18
+00:02:45,719 --> 00:02:54,719
+or doubled its worth, that when its price doubled, by the 18th century viewpoint,
+
+19
+00:02:54,719 --> 00:03:09,560
+its cost doubled, and its worth doubled. And when its cost doubled, that is the
+
+20
+00:03:09,560 --> 00:03:14,599
+cost of the item on the left-hand side of the see-saw, the ratio of one-to-one was
+
+21
+00:03:14,599 --> 00:03:23,400
+transformed into a ratio of one-to-two: that is, the left-hand side of the see-saw
+
+22
+00:03:23,400 --> 00:03:26,879
+to the right-hand side of the see-saw.
+
+23
+00:03:33,000 --> 00:03:43,840
+In the 18th century viewpoint, when the cost halves, the worth also halves.
+
+24
+00:03:44,840 --> 00:03:55,120
+We can infer that if the cost doubled, the ratio of one-to-one transformed into a
+
+25
+00:03:55,120 --> 00:04:04,599
+ratio of one-to-two, left to right. But what is a ratio? It signifies the amount
+
+26
+00:04:04,599 --> 00:04:12,439
+of something: the quantity of the item to be exchanged.
+
+27
+00:04:15,120 --> 00:04:22,879
+Where the price doubled, the cost doubled. Where the price doubled, the worth
+
+28
+00:04:22,879 --> 00:04:34,199
+doubled. The cost, and the worth, were equivalent by the 18th century viewpoint.
+
+29
+00:04:34,800 --> 00:04:45,320
+So, likewise, if the price were to half, the cost would halve, thereby also halving
+
+30
+00:04:45,320 --> 00:04:48,520
+the worth.
+
+31
+00:04:53,439 --> 00:05:02,879
+Let us say that a bushel of wheat, instead of being paid for in freshly minted
+
+32
+00:05:02,879 --> 00:05:11,759
+coin, is paid for in debased, clipped, worn coin.
+
+33
+00:05:15,839 --> 00:05:23,159
+So, a bushel of wheat now costs more money because you need more of those coins
+
+34
+00:05:23,159 --> 00:05:32,040
+stamped with a specific, clipped, and worn denomination in money, to acquire
+
+35
+00:05:32,960 --> 00:05:45,280
+a fixed weight of silver. This presumes of course that the ratio between freshly
+
+36
+00:05:45,280 --> 00:05:53,240
+minted silver coin, and bushels of wheat, remains unaltered.
+
+37
+00:05:54,240 --> 00:06:06,960
+A specific, stamped, denomination of this worn, or clipped, silver coin affords fewer items of
+
+38
+00:06:07,199 --> 00:06:22,399
+bushels of wheat because it will purchase less wheat. Therefore, a bushel of wheat now costs more money.
+
+39
+00:06:22,399 --> 00:06:34,120
+Adam Smith did not think about money, or rationalise its price, and cost, in the same
+
+40
+00:06:34,160 --> 00:06:43,639
+way that a 20th century individual did. The 20th century economist is a 20th
+
+41
+00:06:43,639 --> 00:06:51,720
+century individual, and may very well believe that if the price of money rises
+
+42
+00:06:51,720 --> 00:07:03,040
+that more money will exchange by a fixed number of bushels of wheat: thus, also
+
+43
+00:07:03,040 --> 00:07:11,760
+believing that if the price of money falls, that less money will exchange by a fixed number of
+
+44
+00:07:11,920 --> 00:07:34,039
+bushels of wheat. The 20th century viewpoint is not that of the 18th century: which is that if the price
+
+45
+00:07:34,040 --> 00:07:47,600
+of money falls, its cost decreases, and hence more money will exchange by the same amount of wheat;
+
+46
+00:07:47,600 --> 00:07:57,320
+so less wheat can be had for the same amount of money.
+
+47
+00:08:04,040 --> 00:08:23,840
+To see this pictorially, imagine a vertical scale consisting of the amount of something.
+
+48
+00:08:24,839 --> 00:08:40,480
+Previously, so much money, the amount of which is fixed, exchanges by the amount as say 10
+
+49
+00:08:40,480 --> 00:08:54,120
+bushels of wheat. After the price of money falls, the amount of money which will exchange by 10
+
+50
+00:08:54,120 --> 00:09:13,799
+bushels of wheat increases. So, the ratio has become altered: more money, a greater amount of it, is
+
+51
+00:09:14,399 --> 00:09:25,000
+required to exchange by 10 bushels of wheat. So, 10 bushels of wheat will exchange by more money:
+
+52
+00:09:25,000 --> 00:09:40,919
+which is the same as saying, that, for a fixed amount of money, fewer bushels of wheat, less than 10,
+
+53
+00:09:40,919 --> 00:09:51,360
+will exchange by this fixed amount of money, after the price of money has fallen.
+

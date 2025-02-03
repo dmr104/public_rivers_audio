@@ -1,0 +1,680 @@
+1
+00:00:00,000 --> 00:00:12,599
+Here follows a survey of 8 peoples' ideas about the relationship between taxation and
+
+2
+00:00:12,599 --> 00:00:16,480
+inflation.
+
+3
+00:00:16,480 --> 00:00:26,400
+Toward the following 8 people, Lewis, Alwyn, Carol, Lee, Rob, Dennis, Murry, and Sam, the
+
+4
+00:00:26,399 --> 00:00:31,759
+following 4 questions were asked, to which they responded according to their own insights,
+
+5
+00:00:31,759 --> 00:00:38,280
+beliefs and viewpoints pertaining to the subject of economic theory.
+
+6
+00:00:38,280 --> 00:00:39,839
+Question 1.
+
+7
+00:00:39,839 --> 00:00:48,280
+Is tax a force which reacts to inflation?
+
+8
+00:00:48,280 --> 00:00:50,079
+Question 2.
+
+9
+00:00:50,079 --> 00:00:56,359
+Does taxation cause inflation?
+
+10
+00:00:56,600 --> 00:00:58,960
+Question 3.
+
+11
+00:00:58,960 --> 00:01:09,039
+Does competition, e.g. Apple vs. Samsung, cause inflation?
+
+12
+00:01:09,039 --> 00:01:11,840
+Question 4.
+
+13
+00:01:11,840 --> 00:01:19,719
+Does the dynamic changes in the prices of goods, materials, production and transportation
+
+14
+00:01:19,719 --> 00:01:23,879
+cause inflation as a one-way process?
+
+15
+00:01:23,879 --> 00:01:36,719
+i.e. is it possible that the reverse, deflation, can ever happen because of these things?
+
+16
+00:01:36,719 --> 00:01:44,919
+I collate their answers in the form of yes and no in a table.
+
+17
+00:01:44,919 --> 00:01:51,079
+Where the answer is don't know or maybe or uncertain, I have indicated this with a question
+
+18
+00:01:51,079 --> 00:01:52,879
+mark.
+
+19
+00:01:52,879 --> 00:01:59,319
+Where the answer is not recorded, I have indicated this with a hyphen.
+
+20
+00:01:59,319 --> 00:02:01,479
+For question 1,
+
+21
+00:02:01,479 --> 00:02:08,759
+which was, is tax a force which reacts to inflation(?),
+
+22
+00:02:08,759 --> 00:02:16,519
+all of the participants, bar 2, said yes.
+
+23
+00:02:16,520 --> 00:02:26,360
+Alwin didn't know; and Sam said yes and no, it depends.
+
+24
+00:02:26,360 --> 00:02:33,520
+Lewis said the higher inflation is, the higher the price is, so government receives more
+
+25
+00:02:33,520 --> 00:02:39,360
+revenue in tax.
+
+26
+00:02:39,360 --> 00:02:47,360
+Alwyn said she doesn't know if inflation leads to a change in the rate of taxation,
+
+27
+00:02:47,360 --> 00:02:56,560
+or in the amount of revenue the government receives in tax.
+
+28
+00:02:56,560 --> 00:03:05,120
+Carol said inflation leads to the government adding more taxes.
+
+29
+00:03:05,120 --> 00:03:14,680
+Lee said inflation causes taxation which is different in each country.
+
+30
+00:03:14,680 --> 00:03:18,159
+Rob said yes, tax is a reactive force:
+
+31
+00:03:18,159 --> 00:03:25,080
+as the price of goods, materials, production, transportation costs, etc. changes dynamically,
+
+32
+00:03:25,080 --> 00:03:32,400
+these changes lead to responsive changes in tax.
+
+33
+00:03:32,400 --> 00:03:38,879
+If the prices of goods, transport, etc. stay the same, then the rate of taxation is not
+
+34
+00:03:38,879 --> 00:03:51,560
+altered by the government; it remains the same.
+
+35
+00:03:51,560 --> 00:04:00,599
+Dennis said the way taxation reacts to inflation is not direct:
+
+36
+00:04:00,599 --> 00:04:11,280
+the idea of setting the rate of taxes is to encourage or discourage general spending.
+
+37
+00:04:11,280 --> 00:04:25,159
+He says taxation and inflation are always related; so yes, inflation causes taxation.
+
+38
+00:04:25,160 --> 00:04:35,120
+Murry said yes, you can try to ease inflation by increasing taxes:
+
+39
+00:04:35,120 --> 00:04:42,720
+the theory is by taking money out of peoples' pockets they spend less money, meaning that
+
+40
+00:04:42,720 --> 00:04:50,800
+fewer things are being bought, so prices will come down, which in turn entices people to
+
+41
+00:04:50,800 --> 00:04:54,040
+purchase.
+
+42
+00:04:54,040 --> 00:04:59,520
+Murry said tax receipts will increase with inflation;
+
+43
+00:04:59,520 --> 00:05:05,720
+governments may reduce tax in times of inflation to prevent destitution;
+
+44
+00:05:05,720 --> 00:05:16,280
+if tax increases, Murry said demand decreases, leading to a slowing of inflation.
+
+45
+00:05:16,280 --> 00:05:23,120
+Sam's answer to the question, is tax a force which reacts to inflation(?) was, it depends.
+
+46
+00:05:23,120 --> 00:05:26,480
+Yes and no, he says.
+
+47
+00:05:26,480 --> 00:05:34,199
+He explains his reasoning in his answer to question 2.
+
+48
+00:05:34,199 --> 00:05:41,399
+Question 2 was: does taxation cause inflation?
+
+49
+00:05:41,399 --> 00:05:49,840
+The respondees answered this question in a way which disagreed with each other.
+
+50
+00:05:49,839 --> 00:05:59,039
+Lewis says yes, taxation causes inflation. Alwyn says yes, Carol says yes.
+
+51
+00:05:59,039 --> 00:06:06,239
+Initially Lee didn't know, but upon consideration he concluded yes.
+
+52
+00:06:06,239 --> 00:06:16,839
+Rob says no, taxation does not cause inflation. Dennis says no. Murray says yes; and Sam says
+
+53
+00:06:16,839 --> 00:06:22,319
+no.
+
+54
+00:06:22,319 --> 00:06:30,120
+Lewis's reasoning was: he doesn't know if tax causes inflation, but probably yes;
+
+55
+00:06:30,120 --> 00:06:37,399
+it puts the prices of goods higher because of the tax, and this is to give the government
+
+56
+00:06:37,399 --> 00:06:41,599
+more revenue.
+
+57
+00:06:41,600 --> 00:06:54,320
+Alwyn stated taxation causes inflation. Carol says it's supposed not to, but it does.
+
+58
+00:06:54,320 --> 00:07:01,439
+Lee's final answer was tax causes inflation: this is an open question; there are lots of
+
+59
+00:07:01,439 --> 00:07:06,800
+influences and factors.
+
+60
+00:07:06,800 --> 00:07:15,960
+Rob says quite categorically that taxation does not cause inflation.
+
+61
+00:07:15,960 --> 00:07:22,680
+He says that tax is a reactive force, not an inflationary force.
+
+62
+00:07:22,680 --> 00:07:30,040
+Rob says that inflation is a force which is caused by competition.
+
+63
+00:07:30,040 --> 00:07:36,480
+Dennis says taxation does not directly cause inflation.
+
+64
+00:07:36,480 --> 00:07:42,400
+Murry says it can do, yes.
+
+65
+00:07:42,400 --> 00:07:48,240
+He says as an aside, interest rates cause inflation.
+
+66
+00:07:48,240 --> 00:07:54,120
+He says that quantitative easing is a way of printing money, and it will take 30 or 40
+
+67
+00:07:54,120 --> 00:08:06,360
+years to pay for the quantitative easing which happened following the bank collapse of 2008.
+
+68
+00:08:06,360 --> 00:08:12,240
+Sam's more circumspect answers are: take the national deficit to be the excess of government
+
+69
+00:08:12,240 --> 00:08:19,120
+spending above the revenue received from taxation.
+
+70
+00:08:19,120 --> 00:08:25,759
+If taxation increases and government spending remains the same, then this has the effect
+
+71
+00:08:25,759 --> 00:08:38,960
+of reducing the deficit, thereby reducing government borrowing or increasing the national surplus --
+
+72
+00:08:38,960 --> 00:08:46,159
+where national surplus is the excess of government revenue above taxation.
+
+73
+00:08:46,159 --> 00:08:57,000
+Sam says, as demand remains the same, prices will stay the same, thus inflation won't increase.
+
+74
+00:08:57,000 --> 00:09:03,319
+But, if taxation increases too much, people will have less money to afford to buy things,
+
+75
+00:09:03,320 --> 00:09:16,360
+so demand will fall, leading to a fall in prices, i.e. deflation, or a decrease in inflation.
+
+76
+00:09:16,360 --> 00:09:25,160
+He says, if the government borrows more in order to spend, then this does cause inflation, because
+
+77
+00:09:25,159 --> 00:09:35,839
+demand will increase, leading to an increase in prices, thereby increasing inflation.
+
+78
+00:09:35,839 --> 00:09:44,240
+He says, if taxation falls, but spending remains the same, then the national deficit will become
+
+79
+00:09:44,240 --> 00:09:53,279
+increased, or the national surplus will become reduced.
+
+80
+00:09:53,399 --> 00:10:01,199
+He says, people will have, in this case, more money, elevating prices, which is inflationary.
+
+81
+00:10:01,199 --> 00:10:08,519
+But, if taxation falls, but government spending remains the same, this will increase the amount
+
+82
+00:10:08,519 --> 00:10:15,159
+of money people have to spend, elevating prices, which is inflationary, unless sufficient growth
+
+83
+00:10:15,159 --> 00:10:20,120
+happens to absorb this change.
+
+84
+00:10:20,120 --> 00:10:29,000
+Question 3 was: does competition cause inflation?
+
+85
+00:10:29,000 --> 00:10:31,960
+Our respondees answered as follows.
+
+86
+00:10:31,960 --> 00:10:33,960
+Lewis says yes.
+
+87
+00:10:33,960 --> 00:10:36,240
+Alwyn yes.
+
+88
+00:10:36,240 --> 00:10:38,799
+Carol yes.
+
+89
+00:10:38,799 --> 00:10:41,560
+Lee, yes and no.
+
+90
+00:10:41,560 --> 00:10:44,039
+Rob yes.
+
+91
+00:10:44,039 --> 00:10:46,399
+Dennis no.
+
+92
+00:10:46,399 --> 00:10:49,319
+Murry yes and no.
+
+93
+00:10:49,319 --> 00:10:56,519
+Sam says no.
+
+94
+00:10:56,519 --> 00:10:58,919
+Lewis says yes:
+
+95
+00:10:58,919 --> 00:11:01,759
+competition causes inflation;
+
+96
+00:11:01,759 --> 00:11:09,439
+and his reasoning was, the more that manufacturers compete with each other, the more that they
+
+97
+00:11:09,440 --> 00:11:17,640
+produce, and in turn the more that they produce, the higher their costs are, and so in turn
+
+98
+00:11:17,640 --> 00:11:23,400
+they will charge more for their goods.
+
+99
+00:11:23,400 --> 00:11:27,440
+Alwyn who said yes:
+
+100
+00:11:27,440 --> 00:11:33,920
+competition does cause inflation; because when manufacturers compete with each other they
+
+101
+00:11:33,920 --> 00:11:38,360
+are putting up prices all the time.
+
+102
+00:11:38,360 --> 00:11:45,320
+She says, the best products are always sold for the highest prices.
+
+103
+00:11:45,320 --> 00:11:48,159
+Carol said yes.
+
+104
+00:11:48,159 --> 00:11:53,720
+I have not recorded an explanation.
+
+105
+00:11:53,720 --> 00:11:57,759
+Lee says yes and no.
+
+106
+00:11:57,759 --> 00:12:07,920
+He says that competition causes inflation, but the opposite can also happen;
+
+107
+00:12:07,919 --> 00:12:17,799
+but essentially the dynamic change of everything other than tax, causes inflation.
+
+108
+00:12:17,799 --> 00:12:21,240
+That was the viewpoint of Lee.
+
+109
+00:12:21,240 --> 00:12:23,199
+Rob says yes:
+
+110
+00:12:23,199 --> 00:12:27,679
+competition causes inflation.
+
+111
+00:12:27,679 --> 00:12:33,279
+He said the inflationary force is caused by competition.
+
+112
+00:12:33,279 --> 00:12:38,559
+He says: what changes the price of a house?
+
+113
+00:12:38,559 --> 00:12:43,000
+He says, the competition of people demanding houses, in conjunction with local political
+
+114
+00:12:43,000 --> 00:12:49,600
+opposition, resulting in no new housing, no new estates, and no new builds, increases the
+
+115
+00:12:49,600 --> 00:12:53,360
+price of houses.
+
+116
+00:12:53,360 --> 00:12:58,120
+He says, as the amount of land is a fixed quantity, this resource becomes depleted as population
+
+117
+00:12:58,120 --> 00:13:00,759
+growth expands.
+
+118
+00:13:00,759 --> 00:13:10,080
+He says the solution is to grow our economy by colonising other planets and solar systems.
+
+119
+00:13:10,080 --> 00:13:16,679
+Dennis said competition would not usually be cited to cause inflation unless it is with
+
+120
+00:13:16,679 --> 00:13:21,679
+respect to a global resource, and a monopoly is approached.
+
+121
+00:13:21,679 --> 00:13:31,559
+He says monopolies can certainly cause inflation, as can badly handled quantitative easing.
+
+122
+00:13:31,559 --> 00:13:43,319
+Murry says competition can cause inflation, but only does so where a monopoly exists; e.g.
+
+123
+00:13:43,320 --> 00:13:51,680
+if Apple buys Microsoft, this would lead to a massive control over the market.
+
+124
+00:13:51,680 --> 00:13:58,720
+He says, we can prevent this by promoting competition, which reduces prices.
+
+125
+00:13:58,720 --> 00:14:04,360
+He says, communism is a monopoly run by the state.
+
+126
+00:14:04,360 --> 00:14:14,320
+He says, what is important is the global markets, not national ones, when it comes to inflation.
+
+127
+00:14:14,320 --> 00:14:23,360
+Sam says, no, absolutely not: competition does not cause inflation. It reduces prices because
+
+128
+00:14:23,360 --> 00:14:31,320
+competition means, all else being equal, they compete on prices.
+
+129
+00:14:31,320 --> 00:14:38,879
+Question 4 was: does the dynamic changes in the prices of goods, material and production,
+
+130
+00:14:38,879 --> 00:14:46,120
+and transportation, cause inflation as a one-way process? i.e. is the reverse -- deflation --
+
+131
+00:14:46,120 --> 00:14:49,400
+ever possible because of these things?
+
+132
+00:14:49,400 --> 00:14:54,440
+I only have 3 answers recorded, because this question came as an after-thought, late in the
+
+133
+00:14:54,440 --> 00:14:57,280
+day within the survey.
+
+134
+00:14:57,279 --> 00:15:07,600
+The answers recorded are from Rob, Murry and Sam. Rob says, yes: deflation can happen.
+
+135
+00:15:07,600 --> 00:15:20,100
+Murry says no; and Sam says no. Rob says growth leads to employment, leading
+
+136
+00:15:20,100 --> 00:15:26,240
+to the supply of goods and services exceeding the demand for them.
+
+137
+00:15:27,200 --> 00:15:36,360
+He cites: if two different companies are competing, one tries to under-cut the other on prices.
+
+138
+00:15:36,360 --> 00:15:44,440
+He says, economic activity leads to the supply exceeding the demand.
+
+139
+00:15:44,440 --> 00:15:50,039
+He says if £2 million in revenue are attained by one company, then it can afford to under-cut
+
+140
+00:15:50,039 --> 00:15:57,480
+its smaller competitors, which might only receive £50,000 in revenue.
+
+141
+00:15:57,480 --> 00:16:03,919
+He says, the smaller competitor goes bust, and now the larger company has a monopoly, and
+
+142
+00:16:03,919 --> 00:16:06,799
+so can charge what it likes.
+
+143
+00:16:06,799 --> 00:16:14,159
+He says, business loves monopoly, so competition is ultimately inflationary as its longer-term
+
+144
+00:16:14,159 --> 00:16:18,360
+consequence.
+
+145
+00:16:18,360 --> 00:16:24,480
+Murray says, deflation can happen because of dynamic changes in the prices of goods, materials,
+
+146
+00:16:24,480 --> 00:16:29,279
+and production, and transportation.
+
+147
+00:16:29,279 --> 00:16:38,519
+For example, an event such as a war might lead to the price of petrol becoming elevated.
+
+148
+00:16:38,519 --> 00:16:49,480
+This is inflationary, whereas a surfeit of raw materials would lead to their price falling
+
+149
+00:16:49,480 --> 00:16:55,559
+except in the case of an oligarchy or monopoly.
+
+150
+00:16:55,559 --> 00:17:03,480
+He says, if labour costs rise, or the cost of iron ore increases, or if the prices of fuel
+
+151
+00:17:03,480 --> 00:17:07,839
+increases, then these events are massively inflationary.
+
+152
+00:17:07,839 --> 00:17:16,599
+The government may then attempt to bring down inflation by relying on the central bank to
+
+153
+00:17:16,599 --> 00:17:25,319
+vary its interest rates, and also by taxing more, and spending less.
+
+154
+00:17:25,319 --> 00:17:30,799
+The theory Murry explained to me, was that an increase in national surplus, or a decrease
+
+155
+00:17:30,799 --> 00:17:35,559
+in the national deficit, would have the consequence of people having less money to afford to buy
+
+156
+00:17:35,559 --> 00:17:40,240
+things, so demand would fall, leading to a fall in prices.
+
+157
+00:17:40,240 --> 00:17:44,519
+When I say people have less money, this was implying that they have less money in their
+
+158
+00:17:44,519 --> 00:17:49,839
+pockets, as they have been taxed more.
+
+159
+00:17:49,839 --> 00:17:55,200
+Murray continued that another government might borrow money, and use this money to pay salaries
+
+160
+00:17:55,200 --> 00:18:01,600
+to stimulate growth and development.
+
+161
+00:18:01,600 --> 00:18:06,240
+On the subject of whether deflation can happen,
+
+162
+00:18:06,240 --> 00:18:10,160
+Sam says deflation has happened in Japan recently.
+
+163
+00:18:10,160 --> 00:18:15,240
+It happens when there is an excess supply of some kind and demand remains the same, or
+
+164
+00:18:15,240 --> 00:18:20,840
+when there is a decrease in demand for some reason, e.g. after the Second World War, the
+
+165
+00:18:20,839 --> 00:18:25,799
+shortage of people led to a reduction in demand, enabling the government to spend more, without
+
+166
+00:18:25,799 --> 00:18:28,399
+causing inflation.
+
+167
+00:18:28,399 --> 00:18:34,919
+He says, if there are countries reliant upon one specific form of goods for export i.e.
+
+168
+00:18:34,919 --> 00:18:42,079
+oil, then if the global price of oil falls, then less oil is exported, and this will lead
+
+169
+00:18:42,079 --> 00:18:48,879
+to a reduction in the ability of people within that country to make purchases both domestically
+
+170
+00:18:48,880 --> 00:18:53,040
+and internationally, i.e. their general demand will have fallen.
+
