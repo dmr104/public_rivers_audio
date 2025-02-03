@@ -12,7 +12,7 @@
 		</image>
 		<generator>Anchor Podcasts</generator>
 		<lastBuildDate>Fri, 08 Nov 2024 20:38:56 GMT</lastBuildDate>
-		<atom:link href="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/amended_from_anchor.xml" rel="self" type="application/rss+xml"/>
+		<atom:link href="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/amended_from_anchor.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[David Roderick]]></author>
 		<copyright><![CDATA[David Roderick]]></copyright>
 		<language><![CDATA[en-gb]]></language>
@@ -42,7 +42,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 18:15:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93935355/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389335899-44100-2-acb436c9deb16.mp3" length="2134934" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00001.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00001.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: Message to a friend&lt;/p&gt;
 &lt;p&gt;David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -72,7 +72,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 18:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93936340/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389335910-44100-2-6db8a7f97bb8d.mp3" length="4558679" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00002.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00002.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: Quotation from Edward Gibbon&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -102,7 +102,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 17:45:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93936781/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389212183-44100-2-85835dab59d5c.mp3" length="2867617" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00003.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00003.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: Letter to the reader&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -132,7 +132,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 17:30:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93960522/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389241391-44100-2-9610fef1d038c.mp3" length="3166875" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00004.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00004.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: Prologue&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -162,7 +162,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 17:15:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93961033/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389242110-44100-2-2bfa2c097e002.mp3" length="18160743" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00005.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00005.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: A survey&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -192,7 +192,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 17:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93961235/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389242364-44100-2-cfcfa37d14eb9.mp3" length="15074114" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00006.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00006.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: The Word as &quot;Price&quot;&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -222,7 +222,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 16:45:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93961369/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389242560-44100-2-dd0946c408384.mp3" length="13765066" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00007.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00007.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: The Word as &quot;Cost&quot;&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -252,7 +252,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 16:30:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93961592/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389242836-44100-2-a829e468d1abb.mp3" length="11996263" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00008.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00008.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: The Word as &quot;Worth&quot;&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -282,7 +282,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 16:15:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93961851/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389243164-44100-2-1fd23bcad0064.mp3" length="9500211" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00009.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00009.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: Debased, Clipt, Worn Coin.&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -312,7 +312,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 16:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93962424/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389243837-44100-2-d0c05b437a5f.mp3" length="14113644" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00010.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00010.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: Merchant Bills&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -342,7 +342,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 15:45:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93962646/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389244242-44100-2-38716df705bca.mp3" length="22949301" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00011.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00011.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: Bank Money&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -372,7 +372,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 15:30:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93963109/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389244680-44100-2-ddc8fc79d2388.mp3" length="11455842" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00012.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00012.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: An Agio&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -402,7 +402,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 15:15:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93966013/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389248290-44100-2-35a6aa375761b.mp3" length="15152691" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00013.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00013.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: Warehouse Rent&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -432,7 +432,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 15:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93966672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389249105-44100-2-bf797b29e0f06.mp3" length="4681141" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00014.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00014.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: The King of France&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -462,7 +462,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 14:45:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93967473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389250152-44100-2-935b7f25c8df2.mp3" length="21670346" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00015.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00015.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: Promissory notes (which are paper money), and Commercial Banks.&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -492,7 +492,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 14:30:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93968203/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389251049-44100-2-af3dd41c5bd81.mp3" length="26797870" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00016.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00016.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: Money, the Great Wheel of Circulation.&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -522,7 +522,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 14:15:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93968712/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389251628-44100-2-64af68d004316.mp3" length="24567639" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00017.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00017.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: Hammers and Timber&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -552,7 +552,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 14:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93969129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389252188-44100-2-1d17ef697aa7.mp3" length="23326301" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00018.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00018.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: The Amount of Metal Pieces&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -582,7 +582,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 13:45:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93969843/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389252999-44100-2-c3b36c453a32d.mp3" length="21320097" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00019.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00019.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: The Scotch Banks&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -612,7 +612,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 13:30:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93975352/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389259964-44100-2-d58dc6fbfdd21.mp3" length="22590692" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00020.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00020.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: The Amazonian Rainforest and the Balance of Trade.&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -642,7 +642,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 13:15:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93975654/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389260333-44100-2-437bf331427f4.mp3" length="17754487" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00021.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00021.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: An Uneven Par within the Balance of Trade.&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
@@ -672,7 +672,7 @@
 			<dc:creator><![CDATA[David Roderick]]></dc:creator>
 			<pubDate>Mon, 04 Nov 2024 13:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/fd2471e4/podcast/play/93976489/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389261409-44100-2-ce50c78635278.mp3" length="19760691" type="audio/mpeg"/>
-			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/rivers_audio_RSS/refs/heads/main/00022.vtt" type="text/vtt" language="en"></podcast:transcript>
+			<podcast:transcript url="https://raw.githubusercontent.com/dmr104/public_rivers_audio/refs/heads/main/00022.vtt" type="text/vtt" language="en"></podcast:transcript>
 			<itunes:summary>&lt;p&gt;Title: Epilogue&lt;/p&gt;
 &lt;p&gt;Artist: David Roderick&lt;/p&gt;
 &lt;p&gt;Album: Rivers of Imprisonment&lt;/p&gt;
